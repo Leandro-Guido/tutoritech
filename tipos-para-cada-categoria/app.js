@@ -58,7 +58,7 @@ var db_inicial = {
         },
         {
             "id": 9,
-            "titulo": "Como usar o site Tutoritech,
+            "titulo": "Como usar o site Tutoritec",
             "tutorial": "Nosso site é muito simples, caso você queira ter acesso a mais conteudos você terá que pagar para criar uma conta premium",
             "url": "https://www.youtube.com/embed/S-mMQuj4xLY",
             "categoria": "Uso do site"
