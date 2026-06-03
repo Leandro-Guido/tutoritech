@@ -48,7 +48,7 @@ function init() {
         {
             texto += `
                         <div class="col-12 col-xl-6">
-                            <a href="/tipos-para-cada-categoria/index.html?name=${categoria.nome}"><button class="custom-btn btn-13">${categoria.nome}</button></a>
+                            <a href="../tipos-para-cada-categoria/index.html?name=${categoria.nome}"><button class="custom-btn btn-13">${categoria.nome}</button></a>
                         </div>
                 `;
         }
@@ -73,7 +73,7 @@ function colocarSair(){
         nomeUsu = JSON.parse(sessionStorage.getItem('usuarioCorrente')).usuario;
     }
     
-    textoNome = `<p>${nomeUsu} | <a onclick="logoutUser()" href="/inicio-login/login.html">Sair</a></p>`;
+    textoNome = `<p>${nomeUsu} | <a onclick="logoutUser()" href="../inicio-login/login.html">Sair</a></p>`;
 
     document.querySelector('#insertSair').innerHTML = textoNome;
 }

@@ -137,7 +137,7 @@ function colocarSair(){
         nomeUsu = JSON.parse(sessionStorage.getItem('usuarioCorrente')).usuario;
     }
     
-    textoNome = `<p>${nomeUsu} | <a onclick="logoutUser()" href="/inicio-login/login.html">Sair</a></p>`;
+    textoNome = `<p>${nomeUsu} | <a onclick="logoutUser()" href="../inicio-login/login.html">Sair</a></p>`;
 
     document.querySelector('#insertSair').innerHTML = textoNome;
 }

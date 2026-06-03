@@ -81,7 +81,7 @@ function init() {
         {
             texto += `
                     <div class="col-12">
-                        <a href="/tutorial/index.html?id=${categoria.id}"><button class="custom-btn btn-13">${categoria.titulo}</button></a>
+                        <a href="../tutorial/index.html?id=${categoria.id}"><button class="custom-btn btn-13">${categoria.titulo}</button></a>
                     </div>
             `;
         }
