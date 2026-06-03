@@ -4,7 +4,7 @@ var db_inicial = {
             "id": 1,
             "titulo": "WhatsApp",
             "tutorial": "O WhatsApp reconhece seus contatos ao acessar a lista de contatos do seu telefone. Ou seja, a sua Agenda. Contatos já cadastrado e números com quem vocë trocou telefonema ou SMS já estarão disponíveis nesse acervo e você pode adicionar mais.",
-            "url": "https://www.youtube.com/embed/hS8yibiS3dE",
+            "url": "https://www.youtube.com/embed/WcaFKRPK0hs?si=k2PJ3lgtJ6MX4HOz",
             "categoria": "Aplicativos de redes sociais"
         },
         {
@@ -46,21 +46,21 @@ var db_inicial = {
             "id": 7,
             "titulo": "Netflix",
             "tutorial": "Depois de abrir o aplicativo ou o site da Netflix, selecione Entrar para acessar sua conta e começar a assistir a seus filmes e séries. Você pode assistir à Netflix em qualquer aparelho compatível e até em mais de um ao mesmo tempo. É possível criar perfis para cada pessoa que mora com você. Assim, cada um tem uma experiência personalizada na Netflix. Sua conta pode ter até cinco perfis individuais, e cada um desses perfis pode ter um nível de maturidade diferente. Cada perfil terá suas próprias recomendações de acordo com as classificações e preferências da pessoa que usa o perfil.Você pode buscar títulos que sejam do seu interesse ou navegar pelas nossas sugestões. Depois que você começar a assistir e avaliar os títulos, começaremos a mostrar recomendações. Você também pode ativar legendas, legendas ocultas ou áudio alternativo em diversos títulos ou navegar pelos títulos que atendem às suas preferências de idioma de legendas ou áudio.",
-            "url": "https://www.youtube.com/embed/67tTI7b7YZE",
+            "url": "https://www.youtube.com/embed/WcaFKRPK0hs?si=k2PJ3lgtJ6MX4HOz",
             "categoria": "Aplicativos de filmes e séries"
         },
         {
             "id": 8,
             "titulo": "WhatsApp",
             "tutorial": "O WhatsApp reconhece seus contatos ao acessar a lista de contatos do seu telefone. Ou seja, a sua Agenda. Contatos já cadastrado e números com quem vocë trocou telefonema ou SMS já estarão disponíveis nesse acervo e você pode adicionar mais.",
-            "url": "https://www.youtube.com/embed/hS8yibiS3dE",
+            "url": "https://www.youtube.com/embed/WcaFKRPK0hs?si=k2PJ3lgtJ6MX4HOz",
             "categoria": "Gratuito"
         },
         {
             "id": 9,
             "titulo": "Como usar o site Tutoritec",
             "tutorial": "Nosso site é muito simples, caso você queira ter acesso a mais conteudos você terá que pagar para criar uma conta premium",
-            "url": "https://www.youtube.com/embed/S-mMQuj4xLY",
+            "url": "https://www.youtube.com/embed/WcaFKRPK0hs?si=k2PJ3lgtJ6MX4HOz",
             "categoria": "Uso do site"
         }
     ]
