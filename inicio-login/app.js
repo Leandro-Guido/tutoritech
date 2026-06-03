@@ -69,7 +69,7 @@ function initLoginApp () {
         }
         if(usuarioCorrente.tipo == "user")
         {
-            window.location.href = '/cat-premium/index.html';
+            window.location.href = 'cat-premium/index.html';
         }
     }
     
