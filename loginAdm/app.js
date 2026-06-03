@@ -30,7 +30,7 @@ function initLoginApp () {
         }
         if(usuarioCorrente.tipo == "adm")
         {
-            window.location.href = 'manutenção-administradores/index.html';
+            window.location.href = '../manutenção-administradores/index.html';
         }
     }
     
